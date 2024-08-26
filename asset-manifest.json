@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Perfido/static/css/main.d3e23aac.css",
+    "main.js": "/Perfido/static/js/main.7bcc5d55.js",
+    "index.html": "/Perfido/index.html",
+    "main.d3e23aac.css.map": "/Perfido/static/css/main.d3e23aac.css.map",
+    "main.7bcc5d55.js.map": "/Perfido/static/js/main.7bcc5d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e23aac.css",
+    "static/js/main.7bcc5d55.js"
+  ]
+}
