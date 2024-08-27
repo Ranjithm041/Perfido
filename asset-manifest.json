@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Perfido/static/css/main.d3e23aac.css",
-    "main.js": "/Perfido/static/js/main.7bcc5d55.js",
+    "main.js": "/Perfido/static/js/main.dfb66d4d.js",
     "index.html": "/Perfido/index.html",
     "main.d3e23aac.css.map": "/Perfido/static/css/main.d3e23aac.css.map",
-    "main.7bcc5d55.js.map": "/Perfido/static/js/main.7bcc5d55.js.map"
+    "main.dfb66d4d.js.map": "/Perfido/static/js/main.dfb66d4d.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e23aac.css",
-    "static/js/main.7bcc5d55.js"
+    "static/js/main.dfb66d4d.js"
   ]
 }
